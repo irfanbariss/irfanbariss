@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbariss&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbariss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanbariss" alt="irfanbariss" /></a> </p>
+
 
 - 🌱 I’m currently learning **mobile development with Flutter and Unity & C#**
 
 - 👨‍💻 All of my projects are available at [https://irfanbariss.github.io/portfolio/](https://irfanbariss.github.io/portfolio/)
 
-- 📫 How to reach me **barisozr.dev@gmail.com irfanbarisozer@gmail.com**
+- 📫 How to reach me **barisozr.dev@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -30,6 +30,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanbariss&" alt="irfanbariss" /></p>
 
+
+## 🌐 Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanbarisozer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@irfanbariss) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=irfanbariss&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=irfanbariss&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanbariss&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=irfanbariss&icon=5&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **irfanbariss/irfanbariss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

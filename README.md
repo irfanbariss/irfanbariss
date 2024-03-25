@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://irfanbariss.github.io/portfolio/](https://irfanbariss.github.io/portfolio/)
 
-- 📫 How to reach me **barisozr.dev@gmail.com**
+- 📫 How to reach me **irfanbarisozer@gmail.com** or **barisozr.dev@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

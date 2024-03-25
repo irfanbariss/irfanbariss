@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **mobile development with Flutter and Unity & C#**
+- 🌱 I’m currently learning **mobile development with Flutter and  game development with Unity & C#**
 
 - 👨‍💻 All of my projects are available at [https://irfanbariss.github.io/portfolio/](https://irfanbariss.github.io/portfolio/)
 
